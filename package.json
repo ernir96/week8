@@ -4,8 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "jest",
-    "clean": "rm -rf node_modules"
+    "clean": "rm -rf ./node_modules",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
